@@ -6,17 +6,11 @@ layout: compress
 {% include head.html %}
 <body>
 <header>
-<div id="mySidenav" class="sidenav">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 
-  {% include menu-links.html %}
-</div>
-
+<img class="fa fa-align-left" src="{{site.baseurl}}/images/dhcu-logo.png" width="30%"/>
 <!-- Use any element to open the sidenav -->
+<span class="topnav">{% include menu-links.html %}</span>
 
-<span id="slid" onclick="openNav()"><img class="fa fa-align-left" src="{{site.baseurl}}/images/burger-menu.png" width="10%" height="10%" aria-hidden="true"/></span>
-<a href="{{site.baseurl}}/"><h1>Digital Humanities at Columbia University</h1></a>
-<h2 class="header-tagline">Sun of the Sun</h2>
 </header>
 <div id="main">
 
