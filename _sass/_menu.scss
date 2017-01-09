@@ -53,14 +53,15 @@
 #slid {
     color: #eee;
     position: fixed;
-    top: 0px;
-    left: 0;
+    top: 10px;
+    left: 20px;
     z-index: 1;
     border: none;
     cursor: pointer;
 }
 
-.fa-align-left {
-    padding: 5px 7px;
-    background: #333;
+img.fa-align-left {
+    padding: 20px 20px;
+    background: #fff;
+    float:left;
 }
