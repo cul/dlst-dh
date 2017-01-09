@@ -1,60 +1,12 @@
 ---
 layout: post
-title: Documentation
-description: Learn how to install and use this theme. This document will be updated on a regular basis upon adding new features or bug fixes5 
-img: image-10.jpg
-color: 212121
-author: webjeda
+title: sx archipelagos
+description: sx archipelagos is an online journal of digital humanities and media studies in caribbean studies. 
+img: sxarchipelagos.jpeg
+color: 002B7F
+author: Alex Gil
 ---
 
-* some text
-{: toc}
+<em>sx:archipelagos</em> seeks to substantially reduce the cost of open access academic publication by adapting a minimal computing workflow to the needs of an stablished journal. As pressures mount on academic journals, the need to reduce costs while providing manageable workflows and multivalent outputs has increased. The <em><a href="http://smallaxe.net/">Small Axe</a></em> journal has weathered two decades as the flagship journal for Caribbean Studies and thus provides a great platform for experimentation around an established journal, as opposed to new experiments that must build prestige while trying out new workflows. <em>sx:archipelagos</em> was born as that experimental branch. The goal of <em>sx:a</em> is to publish a combination of articles, digital project reviews, and digital humanities ventures with low periodicity and under reduced cost.
 
-# Installation: 
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
-
-Watch my video on instlallation
-<iframe class="video" src="https://www.youtube.com/embed/T2nx6tj-ZH4?rel=0?rel=0" frameborder="0" allowfullscreen></iframe>
-
-## How to delete old **gh-pages** branch?
-After forking the repository, click on **branches**.
-
-![delete gh-pages branch](http://blog.webjeda.com/images/delete-github-branch.png)
-
-Delete ``gh-pages`` branch.
-![delete gh-pages branch](http://blog.webjeda.com/images/delete-github-branch-2.png)
-
-You have to create a new ``gh-pages`` branch using the master branch. Go back to the forked repository and create ``gh-pages`` branch.
-
-![create gh-pages branch](http://blog.webjeda.com/images/create-gh-pages-branch.JPG)
-
-Now, go to settings and check the **Github Pages** section. You should see a URL where the blog is hosted.
-
-This process will host the theme as a **Project Page**. You can also download the files for local development. 
-
-The default theme will look like this
-
-![webjeda karna jekyll theme]({{site.baseurl}}/images/karna-jekyll-theme-screenshot.png){: style="box-shadow: 0 0 5px #777"}
-
-
-
-A sample post would look like this
-
-![webjeda karna jekyll theme sidebar]({{site.baseurl}}/images/post.png){: style="box-shadow: 0 0 5px #777"}
-
-
-This theme is made especially for smartphones.
-
-![webjeda karna responsive jekyll theme]({{site.baseurl}}/images/karna-responsive-jekyll-theme.png){: style="box-shadow: 0 0 5px #777"}
-{: style="text-align:center"}
-
-# Development
-Make changes to the **master** branch and create a pull request. Do not use **gh-pages** branch as it is used to host the theme.
-
-# License
-MIT License
-
-# Change Log
-
-### Version 0.8
-* Initial release with a responsive card-friendly layout.
+This project was made possible with generous support from the NEH <a href="http://www.neh.gov/divisions/odh/grant-news/announcing-17-digital-humanities-start-grant-awards-march-2015">Digital Humanities Start-Up Grant Award</a>. Credits: Kaiama Glover, Kelly Josephs, Alex Gil, David Scott, Dennis Tenen
