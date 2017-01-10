@@ -1,12 +1,17 @@
 
-title: Karna
-desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
-url: http://webjeda.com/
+title: "DHatCU"
+desctiption: Digital Humanities at Columbia University
+url: 
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/karna"
+baseurl: "/dhcu"
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path
+    title: projects
 
 sass:
     style: compressed
@@ -29,9 +34,6 @@ highlight: rouge
 
 # Tracker
 analytics: UA-83979019-1
-
-# Comments
-disqus-shortname: webjeda-demo
 
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
