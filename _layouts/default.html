@@ -25,13 +25,16 @@ layout: compress
 {% include footer.html %}
 
 </div>
-<script>
-function openNav() {
-    document.getElementById("mySidenav").style.width = "250px";
-}
-function closeNav() {
-    document.getElementById("mySidenav").style.width = "0";    
-}
+<script src="{{site.baseurl}}/js/jquery.min.js"></script>
+<script type="text/javascript">
+$("div#container div.box").sort(function(){
+    return Math.random()*10 > 5 ? 1 : -1;
+}).each(function(){
+    var $t = $(this),
+        color = $t.attr("class");
+    $t.css({backgroundColor: color}).appendTo( $t.parent() );
+    
+});
 </script>
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet" type="text/css"> 
 {% include analytics.html %}
