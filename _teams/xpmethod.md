@@ -5,7 +5,6 @@ description: The Columbia group for experimental methods in the humanities is de
 img: xpmethod.png
 color: 094179
 author: Alex Gil
-tags: [Alex Gil, DHC]
 ---
 
 What does it mean to "experiment" in the study of history, literature, or philosophy? In answering that question we draw inspiration from two distinct spaces. First, the laboratory, where scientists bracket the world in search for independent variables and reproducible results. Second, the studio, where artists let the world in: to disrupt rigid modes of perception under circumstances that are always indeterminate and subjective. In both spaces, thought is secreted in practice, "on the fetid and throbbing ground of life."<sup><a id="r1" href="#fn1">[1]</a></sup>

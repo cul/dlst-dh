@@ -5,7 +5,9 @@ description: Alex Gil is Digital Scholarship Coordinator for the Humanities and 
 img: alexgil.jpg
 color: 094179
 author: Alex Gil
-tags: [Alex Gil, DHC]
+projects:
+- Around DH in 80 Days
+- xpmethod
 ---
 
 
