@@ -3,6 +3,7 @@ layout: post
 title: Around DH in 80 Days
 description: "Around DH in 80 Days is a multi-institutional, interdisciplinary Digital Humanities collaboration that seeks to introduce new and veteran audiences to the global field of DH scholarly practice by bringing together current DH projects from around the world."
 img: arounddh.png
+link: "http://arounddh.org/"
 color: 094179
 author: Alex Gil
 tags: [Michelle Chesner]
