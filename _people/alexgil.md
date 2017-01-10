@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Alex Gil
-description: Alex Gil is Digital Scholarship Coordinator for the Humanities and History at Columbia.
+description: Digital Scholarship Coordinator for  Humanities and History at Columbia, and Affiliate Faculty of the Department of English and Comparative Literature.
 link: "http://www.elotroalex.com/"
 img: alexgil.jpg
 author: Alex Gil

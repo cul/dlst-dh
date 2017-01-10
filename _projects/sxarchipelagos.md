@@ -1,7 +1,7 @@
 ---
 layout: project
 title: sx archipelagos
-description: sx archipelagos is an online journal of digital humanities and media studies in caribbean studies.
+description: sx archipelagos is an online journal of digital humanities and new media related to the Caribbean.
 link: "http://smallaxe.net/sxarchipelagos/"
 img: sxarchipelagos.jpeg
 author: Alex Gil
