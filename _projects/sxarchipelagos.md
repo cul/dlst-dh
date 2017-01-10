@@ -5,7 +5,6 @@ description: sx archipelagos is an online journal of digital humanities and medi
 img: sxarchipelagos.jpeg
 color: 094179
 author: Alex Gil
-category: project
 tags: [Alex Gil, DHC]
 ---
 
