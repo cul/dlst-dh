@@ -1,0 +1,42 @@
+/* The header */
+
+header {
+    margin: 20px;
+}
+
+/* The navigation menu links */
+
+.topnav {
+    float: right;
+    padding: 10px;
+}
+.topnav a {
+    padding: 8px 4px 8px 4px;
+    text-decoration: none;
+    font-size: 1rem;
+    color: #818181;
+    transition: 0.3s
+}
+
+/* When you mouse over the navigation links, change their color */
+.topnav a:hover, .offcanvas a:focus{
+    color: #f1f1f1;
+}
+
+/* Logo */
+
+#logo {
+    float:left;
+    width:30%;
+}
+
+/* Responsive media */
+
+@media only screen and (max-width: 564px) {
+    .topnav {
+        margin:10px 0px;
+    }
+    #logo {
+        width:100%;
+    }
+}
