@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Brief History of Digital Humanities at Columbia
+title: A Brief History of Digital Humanities at Columbia University
 permalink: /history/
 ---
 

@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: team
 title: Group for Experimental Methods in the Humanities
-description: The Columbia group for experimental methods in the humanities is dedicated to the rapid prototyping of speculative ideas. 
+description: The Columbia group for experimental methods in the humanities is dedicated to the rapid prototyping of speculative ideas.
+link: "http://xpmeth.plaintext.io/" 
 img: xpmethod.png
 color: 094179
 author: Alex Gil
+people:
+- Alex Gil
 ---
 
 What does it mean to "experiment" in the study of history, literature, or philosophy? In answering that question we draw inspiration from two distinct spaces. First, the laboratory, where scientists bracket the world in search for independent variables and reproducible results. Second, the studio, where artists let the world in: to disrupt rigid modes of perception under circumstances that are always indeterminate and subjective. In both spaces, thought is secreted in practice, "on the fetid and throbbing ground of life."<sup><a id="r1" href="#fn1">[1]</a></sup>
@@ -13,7 +16,6 @@ The Columbia group for experimental methods in the humanities is dedicated to th
 
 Somewhere between a lab experiment and experimental art, we hope to open a space for process-based scholarship, "to be judged not on its success or failure, but simply as an act the outcome of which is unknown."<sup><a id="r2" href="#fn2">[2]</a></sup>
 
-For more information, see <a href="http://xpmeth.plaintext.io/">the group website</a>.
 
 <section>
 <p id="fn1"><a href="#r1">[1]</a> Bernard, Claude (1865). <em>Introduction à l’étude de la médecine expérimentale</em>. Paris.</p>

@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<div class="page-container">
+   {% if page.img %}
+    <div class="crop">
+        <img class="featured-img" src={{ "/images/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
+    </div>
+    {% endif %}
+    <div class="content">
+    <article>
+        <h1 class="page-title">{{page.title}}</h1>
+        {{page.content | markdownify}}
+        
+    </article>
+    {% if page.link %}
+    <p><a href="{{page.link}}" target="_blank" alt="{{page.title}}">Visit the Website</a></p>
+    {% endif %}
+
+<!-- This bit of logic generates "tags" for People and Projects -->
+    {% capture team_name %}{{page.title}}{% endcapture %}
+    {% if page.people %}
+    <p>People:<br>
+    {% for post in site.people %}
+        {% if post.teams %}
+            {% for team in post.teams %}
+                {% if team==team_name%}
+                <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a><br>
+                {% endif %}
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+    </p>
+    {% endif %}
+    {% if page.teams %}
+    <p>Projects:<br>
+    {% for post in site.teams %}
+        {% if post.teams %}
+            {% for team in post.teams %}
+                {% if team==team_name%}
+                <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a><br>
+                {% endif %}
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+    </p>
+    {% endif %}
+    </div>
+</div>
+

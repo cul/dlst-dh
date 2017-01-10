@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Around DH in 80 Days
 description: "Around DH in 80 Days is a multi-institutional, interdisciplinary Digital Humanities collaboration that seeks to introduce new and veteran audiences to the global field of DH scholarly practice by bringing together current DH projects from around the world."
 img: arounddh.png
@@ -8,8 +8,6 @@ color: 094179
 author: Alex Gil
 people:
 - Alex Gil
-teams:
-- Group for Experimental Methods in the Humanities
 ---
 
 Around DH in 80 Days is a multi-institutional, interdisciplinary Digital Humanities collaboration that seeks to introduce new and veteran audiences to the <em>global</em> field of DH scholarly practice by bringing together current DH projects from around the world.
