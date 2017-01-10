@@ -16,6 +16,10 @@ collections:
     output: true
     permalink: /people/:path
     title: people
+  teams:
+    output: true
+    permalink: /teams/:path
+    title: teams
 
 sass:
     style: compressed

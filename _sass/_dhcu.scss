@@ -1,3 +1,18 @@
+/* General */
+
+div#container.welcome {
+  width:60%;
+}
+
+div.crop {
+  height: 200px;
+  overflow: hidden;
+}
+
+div.crop img {
+  opacity: 0.5;
+}
+
 /* The header */
 
 header {
@@ -38,5 +53,9 @@ header {
     }
     #logo {
         width:100%;
+    }
+
+    div#container.welcome {
+        width:90%;
     }
 }
