@@ -4,7 +4,6 @@ title: sx archipelagos
 description: sx archipelagos is an online journal of digital humanities and media studies in caribbean studies.
 link: "http://smallaxe.net/sxarchipelagos/"
 img: sxarchipelagos.jpeg
-color: 094179
 author: Alex Gil
 people:
 - Kaiama Glover

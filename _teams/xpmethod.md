@@ -4,7 +4,6 @@ title: Group for Experimental Methods in the Humanities
 description: The Columbia group for experimental methods in the humanities is dedicated to the rapid prototyping of speculative ideas.
 link: "http://xpmeth.plaintext.io/" 
 img: xpmethod.png
-color: 094179
 author: Alex Gil
 people:
 - Alex Gil

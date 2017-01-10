@@ -7,7 +7,7 @@ title: Teams
 <div id="container" class="cols">
     {% for post in site.teams %}
     {% unless post.title == 'Teams' %}
-    <div class="box" style="background-color:#{{post.color}}">
+    <div class="box">
        {% if post.img %}
           <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
        {% endif %}

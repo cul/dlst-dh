@@ -5,7 +5,7 @@ layout: default
 <div class="page-container">
    {% if page.img %}
     <div class="crop">
-        <img class="featured-img" src={{ "/images/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
+        <a href="{{page.link}}" target="_blank"><img class="featured-img" src={{ "/images/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}"></a>
     </div>
     {% endif %}
     <div class="content">

@@ -2,7 +2,6 @@
 layout: project
 title: Language and Culture Atlas for Ashkenazic Jewry
 description: "A digital remaking of The Language and Culture Atlas of Ashkenazic Jewry (1959-1972)—containing over 100,000 pages of field notes documenting dialectal differences for speakers of Yiddish from across Europe."
-color: 094179
 author: Alex Gil
 tags: [Michelle Chesner]
 ---

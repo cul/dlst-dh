@@ -4,7 +4,6 @@ title: Alex Gil
 description: Alex Gil is Digital Scholarship Coordinator for the Humanities and History at Columbia.
 link: "http://www.elotroalex.com/"
 img: alexgil.jpg
-color: 094179
 author: Alex Gil
 projects:
 - Around DH in 80 Days
