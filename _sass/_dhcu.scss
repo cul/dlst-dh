@@ -1,12 +1,12 @@
 /* General */
 
-div#container.prose {
+div.page-container {
   width:60%;
+  font-size:1.1rem;
 }
 
-div#container.prose p {
-  font-size:1.2rem;
-
+div.no-border {
+    box-shadow: none;
 }
 
 div.crop {
