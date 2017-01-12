@@ -6,7 +6,8 @@ title: Projects
 
 <div id="container" class="cols">
     {% for post in site.projects %}
-    {% unless post.title == 'Projects' %}
+    {% if post.archive %}
+    {% elsif post.title != 'Projects' %}
     <div class="box">
        {% if post.img %}
           <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
@@ -17,6 +18,6 @@ title: Projects
              <div class="action">Learn More<a href="{{post.url | prepend: site.baseurl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
         </div>   
     </div>
-   {% endunless %}
+   {% endif %}
    {% endfor %}
 </div>

@@ -7,7 +7,7 @@ title: People
 <div id="container" class="cols">
     {% for post in site.people %}
     {% if post.archive %}
-    {% elsif post.title != 'People' %}
+    {% elsif post.title != 'Teams' %}
     <div class="box">
        {% if post.img %}
           <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
