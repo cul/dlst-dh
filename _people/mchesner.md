@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Michelle Chesner
-description: Michelle Chesner is the Norman E. Alexander Librarian for Jewish Studies at Columbia.
+description: Norman E. Alexander Librarian for Jewish Studies at Columbia.
 link: "http://library.columbia.edu/locations/global/jewishstudies.html"
 img: mchesner.jpg
 author: Alex Gil
