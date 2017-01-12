@@ -15,6 +15,21 @@ permalink: /archives/
 		<a href="{{site.baseurl}}{{post.url}}"><li>{{post.title}}</li></a>
 		{% endif %}
 		{% endfor %}
-		<li>Alex Gil</li>
+	</ul>
+	<h2>Teams</h2>
+	<ul>
+		{% for post in site.teams %}
+		{% if post.archive %}
+		<a href="{{site.baseurl}}{{post.url}}"><li>{{post.title}}</li></a>
+		{% endif %}
+		{% endfor %}
+	</ul>
+	<h2>Projects</h2>
+	<ul>
+		{% for post in site.projects %}
+		{% if post.archive %}
+		<a href="{{site.baseurl}}{{post.url}}"><li>{{post.title}}</li></a>
+		{% endif %}
+		{% endfor %}
 	</ul>
 </div>
