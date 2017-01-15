@@ -1,0 +1,9 @@
+---
+layout: people
+title: Frances Negrón-Muntaner	
+description: Award-winning filmmaker, writer, and scholar. Professor, Department of English and Comparative Literature.
+img: fnegron.jpeg
+author: Alex Gil
+---
+
+Frances Negrón-Muntaner is an award-winning filmmaker, writer, and scholar. She is the recipient of Ford, Truman, Scripps Howard, Rockefeller, and Pew fellowships as well as a Social Science Research Council and Andy Warhol Foundation grants. She is the editor of several books, including Puerto Rican Jam: Rethinking Nationalism and Colonialism; None of the Above: Puerto Ricans in the Global Era, and Sovereign Acts. She is the author of Anatomy of a Smile and Other Poems and Boricua Pop: Puerto Ricans and the Latinization of American Culture (winner, 2004 CHOICE Award). Among Negrón-Muntaner's films are AIDS in the Barrio, Brincando el charco: Portrait of a Puerto Rican, and War in Guam. She is currently completing various documentaries, including on the intersection of Latino and LGTB social movements, and writing an intellectual biography on Arthur Schomburg. Negrón-Muntaner is also a founding board member and past chair of NALIP, the National Association of Latino Independent Producers, and a co-founder of Columbia University's Latino Arts and Activist archive. In 2005, she was named as 1 of "100 Most Influential Hispanics" by Hispanic Business magazine, and in 2008, the United Nations' Rapid Response Media Mechanism recognized her as a “global expert." She is also the recipient of El Diario/La Prensa's annual “Distinguished Women Award” (2010) and Columbia University's “Most Distinguished Faulty Award” (2012).  She is the former director of Columbia University's Center for the Study of Ethnicity and Race. Currently she is one of the Faculty moderators for the Group for Experimental Methods in the Humanities, and is actively involved in digital media projects at Columbia and beyond.
