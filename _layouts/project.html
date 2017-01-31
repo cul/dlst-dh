@@ -22,28 +22,31 @@ layout: default
     {% capture project_name %}{{page.title}}{% endcapture %}
     {% if page.people %}
     <p>People:<br>
-
-    {% for post in site.people %}
-        {% if post.projects %}
-            {% for project in post.projects %}
-                {% if project==project_name%}
-                <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a><br>
-                {% endif %}
-            {% endfor %}  
-        {% endif %}
+    {% for person in page.people %}
+        {% for post in site.people %}
+            {% if post.title==person %}
+            <a href="{{site.baseurl}}{{post.url}}">{% endif %}
+        {% endfor %}
+        {{person}}
+        {% for post in site.people %}
+            {% if post.title==person %}</a><br>
+            {% endif %}
+        {% endfor %}
     {% endfor %}
     </p>
     {% endif %}
     {% if page.teams %}
     <p>Teams:<br>
-    {% for post in site.teams %}
-        {% if post.projects %}
-            {% for project in post.projects %}
-                {% if project==project_name%}
-                <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a><br>
-                {% endif %}
-            {% endfor %}
-        {% endif %}
+    {% for team in page.teams %}
+        {% for post in site.teams %}
+            {% if post.title==team %}
+            <a href="{{site.baseurl}}{{post.url}}">{% endif %}
+        {% endfor %}
+        {{team}}
+        {% for post in site.teams %}
+            {% if post.title==team %}</a><br>
+            {% endif %}
+        {% endfor %}
     {% endfor %}
     </p>
     {% endif %}
