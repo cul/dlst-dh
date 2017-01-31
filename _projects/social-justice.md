@@ -3,6 +3,7 @@ layout: project
 title: Social Justice Movements
 description: The Social Justice Movements website was first developed by students at Columbia University and Barnard College enrolled in 'Black Movements in the U.S.' taught by Professor Robin D. G. Kelley.
 link: "http://socialjustice.ccnmtl.columbia.edu/index.php/Main_Page"
+archive: True
 author: Alex Gil
 ---
 

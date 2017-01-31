@@ -22,13 +22,14 @@ layout: default
     {% capture project_name %}{{page.title}}{% endcapture %}
     {% if page.people %}
     <p>People:<br>
+
     {% for post in site.people %}
         {% if post.projects %}
             {% for project in post.projects %}
                 {% if project==project_name%}
                 <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a><br>
                 {% endif %}
-            {% endfor %}
+            {% endfor %}  
         {% endif %}
     {% endfor %}
     </p>
