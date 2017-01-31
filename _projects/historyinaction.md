@@ -1,8 +1,8 @@
 ---
-layout: projects
+layout: project
 title: History in Action
-description: A publich history initiative of the History Department at Columbia University to expand the range of training for graduate students in the humanities.
-link: ""
+description: A public history initiative of the History Department at Columbia University to expand the range of training for graduate students in the humanities.
+link: "http://historyinaction.columbia.edu/"
 img: historyinaction.png
 author: Alex Gil
 people:

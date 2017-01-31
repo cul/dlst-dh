@@ -2,8 +2,8 @@
 layout: project
 title: Rikers Bot
 description: A coding workshop and an algorithmic storytelling project set in and about Rikers Island correctional facility.
-link: ""
-img: 
+link: "https://twitter.com/rikersbot?lang=en"
+img: rikersbot.png
 author: Alex Gil
 people:
 - Manan Ahmed
