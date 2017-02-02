@@ -5,7 +5,7 @@ url:
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/dhcu"
+baseurl: ""
 
 collections:
   projects:
