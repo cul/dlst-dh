@@ -13,30 +13,34 @@ layout: default
     {% endif %}
 
 <!-- This bit of logic generates "tags" for Projects and Teams -->
-    {% capture person_name %}{{page.title}}{% endcapture %}
+    {% capture team_name %}{{page.title}}{% endcapture %}
     {% if page.projects %}
     <p>Projects:<br>
-    {% for post in site.projects %}
-        {% if post.people %}
-            {% for person in post.people %}
-                {% if person==person_name%}
-                <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a><br>                
-                {% endif %}
-            {% endfor %}
-        {% endif %}
+    {% for project in page.projects %}
+        {% for post in site.projects %}
+            {% if post.title==project %}
+            <a href="{{site.baseurl}}{{post.url}}">{% endif %}
+        {% endfor %}
+        {{project}}
+        {% for post in site.projects %}
+            {% if post.title==project %}</a><br>
+            {% endif %}
+        {% endfor %}
     {% endfor %}
     </p>
     {% endif %}
     {% if page.teams %}
     <p>Teams:<br>
-    {% for post in site.teams %}
-        {% if post.people %}
-            {% for person in post.people %}
-                {% if person==person_name%}
-                <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a><br>
-                {% endif %}
-            {% endfor %}
-        {% endif %}
+    {% for team in page.teams %}
+        {% for post in site.teams %}
+            {% if post.title==team %}
+            <a href="{{site.baseurl}}{{post.url}}">{% endif %}
+        {% endfor %}
+        {{team}}
+        {% for post in site.teams %}
+            {% if post.title==team %}</a><br>
+            {% endif %}
+        {% endfor %}
     {% endfor %}
     </p>
     {% endif %}

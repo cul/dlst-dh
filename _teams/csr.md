@@ -4,6 +4,7 @@ title: Center for Spatial Research
 description: The Spatial Information Design Lab was founded in 2004 as an interdisciplinary research unit in the Graduate School of Architecture, Planning and Preservation at Columbia University.
 link: "http://c4sr.columbia.edu/"
 author: Alex Gil
+img: csr.png
 people:
 - Laura Kurgan
 - Juan Salarriaga
