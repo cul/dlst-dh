@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Rock-cut Architecture of India"
-description: This project traces Rock-cut Archicteture in India.
+description: Part of the Art Atlas, this project traces Rock-cut Archicteture in India.
 link: "https://mcid.mcah.columbia.edu/art-atlas/rock-cut-architecture-india"
 img: rock-cut.jpeg
 author: Alex Gil
