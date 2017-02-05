@@ -1,5 +1,6 @@
 /* General */
 
+
 div.section {
     margin-bottom: 30px;
 }
@@ -11,6 +12,10 @@ div.page-container {
 
 div.no-border {
     box-shadow: none;
+}
+
+div.page > article {
+    border-bottom: none;
 }
 
 div.crop {
