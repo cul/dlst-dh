@@ -23,9 +23,9 @@ layout: default
         {% endfor %}
         {{project}}
         {% for post in site.projects %}
-            {% if post.title==project %}</a><br>
+            {% if post.title==project %}</a>
             {% endif %}
-        {% endfor %}
+        {% endfor %}<br>
     {% endfor %}
     </p>
     {% endif %}
@@ -38,9 +38,9 @@ layout: default
         {% endfor %}
         {{team}}
         {% for post in site.teams %}
-            {% if post.title==team %}</a><br>
+            {% if post.title==team %}</a>
             {% endif %}
-        {% endfor %}
+        {% endfor %}<br>
     {% endfor %}
     </p>
     {% endif %}
