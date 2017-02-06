@@ -6,14 +6,15 @@ link: "http://ctl.columbia.edu/"
 author: Alex Gil
 img: ctl.jpeg
 people:
-- Mark Philipson
+- Mark Phillipson
+- Lucile Appert
 projects:
 - Amistad Digital Resource
 - Sonic Glossary
 - mediathread
 - Mapping Yiddish New York
 - Mapping the African American Past
-- Epistolae: Medieval Women's Letters
+- "Epistolae: Medieval Women's Letters"
 ---
 
 The Center for Teaching and Learning (CTL) partners with faculty, students, and colleagues across the University to support excellence and innovation in teaching and learning. The CTL is committed to advancing the culture of teaching and learning for professional development, curricular enhancement, and academic support through its programs, services, and resources.

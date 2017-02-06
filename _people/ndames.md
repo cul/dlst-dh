@@ -1,0 +1,13 @@
+---
+layout: people
+title: Nicholas Dames
+description: "Theodore Kahan Professor of Humanities, Department of English and Comparative Literature"
+link: "http://nicholasdames.org/"
+img: ndames.jpeg
+author: Alex Gil
+---
+
+B.A. Washington University (1992); Ph.D. Harvard (1998).  Nicholas Dames is a specialist in the novel, with particular attention to the novel of the nineteenth century in Britain and on the European continent.  His interests include novel theory, the history of reading, and the aesthetics of prose fiction from the seventeenth century to the present. He is the author of Amnesiac Selves: Nostalgia, Forgetting, and British Fiction, 1810-1870 (Oxford, 2001), which was awarded the Sonya Rudikoff Prize by the Northeast Victorian Studies Association; and The Physiology of the Novel: Reading, Neural Science, and the Form of Victorian Fiction (Oxford, 2007). He has written on contemporary fiction and other topics for The Atlantic, n+1, The Nation, New Left Review, The New Yorker, The New York Times Book Review, and Public Books, for which he works as a section editor responsible for literary fiction. His scholarly articles have appeared in Representations, Novel, Nineteenth-Century Literature, Narrative, and Victorian Studies, as well as several edited volumes, including Blackwell's Companion to the Victorian Novel, Oxford's Encyclopedia of British Literature, Cambridge's History of Literary Criticism, the Cambridge Companion to English Novelists, and the Blackwell Companion to Jane Austen. He has been a recipient of Columbia's Presidential Teaching Award (2005), a Charles Ryskamp Fellowship from the American Council of Learned Societies (2005-6), the Lenfest Distinguished Faculty Award (2008), and the Mark Van Doren Award for Teaching (2013). In 2009 he served as Chair of the MLA's Executive Division on Prose Fiction, and from 2011-2014 he was Chair of the Department of English and Comparative Literature. He is a founding member and on the Executive Board of the Society for Novel Studies (SNS), and along with Prof. Susan Pedersen of the History Department he co-runs [British Studies at Columbia](http://www.columbia.edu/cu/britishstudies/).  
+
+In 2010, at the 48th Annual Meeting of the Association for Computational Linguistics, he will present with David Elson and Kathy McKeown the ground-breaking paper "[Extracting Social Networks from Literary Fiction](http://nicholasdames.org/wp-content/uploads/2013/06/ACL2010-ElsonDamesMcKeown.pdf)." His current project is a history of the chapter, from the textual cultures of late antiquity, particularly the editorial and scribal practices of early Christianity, to the modern novel.
+

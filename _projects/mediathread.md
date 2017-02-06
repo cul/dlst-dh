@@ -1,6 +1,6 @@
 ---
 layout: project
-title: mediathread
+title: Mediathread
 description: A tool to closely study multimedia objects from across the web.
 link: "http://mediathread.info/"
 author: Alex Gil
