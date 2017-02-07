@@ -10,15 +10,15 @@ baseurl: ""
 collections:
   projects:
     output: true
-    permalink: /projects/:path
+    permalink: /projects/:path.html
     title: projects
   people:
     output: true
-    permalink: /people/:path
+    permalink: /people/:path.html
     title: people
   teams:
     output: true
-    permalink: /teams/:path
+    permalink: /teams/:path.html
     title: teams
 
 sass:

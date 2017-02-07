@@ -4,7 +4,9 @@
 
 @font-face {
   font-family: 'Trajan Pro';
-  src: url('{{site.baseurl}}/trajan-pro-regular.ttf');
+  src:  local('Trajan-Pro-Regular'),
+        local('Trajan Pro'),
+        url('{{site.baseurl}}/trajan-pro-regular.ttf');
 }
 
 @charset "utf-8";
