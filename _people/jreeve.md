@@ -8,6 +8,7 @@ projects:
 - Annotags
 - Git-Lit
 - Macro-Etymological Analyzer
+- Middlemarch Critical Histories
 teams:
 - Group for Experimental Methods in the Humanities
 ---
