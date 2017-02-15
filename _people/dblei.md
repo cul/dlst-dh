@@ -1,7 +1,7 @@
 ---
 layout: people
 title: David Blei	
-description: Professor of Statistics and Computer Science at Columbia University
+description: Professor of Statistics and Computer Science
 img: dblei.jpeg
 author: Alex Gil
 ---
