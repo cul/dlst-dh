@@ -1,9 +1,10 @@
 ---
 layout: people
-title: Phillip R. Polefrone
+title: "Phillip R. Polefrone"
 description: "PhD Candidate, Department of English and Comparative Literature"
 img: prpolefrone.jpeg
 author: Alex Gil
+projects:
 - Roget Tools
 teams:
 - Group for Experimental Methods in the Humanities

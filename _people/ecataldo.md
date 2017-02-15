@@ -3,6 +3,7 @@ layout: people
 title: Emogene Schilling Cataldo	
 description: Graduate Student, Department of Art History and Archaeology
 author: Alex Gil
+img: ecataldo.jpg
 teams:
 - Media Center for Art History
 projects:
