@@ -3,7 +3,7 @@ layout: people
 title: Jo Ann Cavallo	
 description: "Professor of Italian; Chair, Department of Italian"
 author: Alex Gil
-img: jacallo.jpeg
+img: jacavallo.jpeg
 projects:
 - eBOIARDO
 ---
