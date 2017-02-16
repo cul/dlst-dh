@@ -33,8 +33,11 @@ GEM
       mercenary (~> 0.3.3)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
+    jekyll-seo-tag (1.4.0)
+      jekyll (~> 3.0)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.13.2)
@@ -68,6 +71,8 @@ PLATFORMS
 DEPENDENCIES
   html-proofer
   jekyll (~> 3.0.2)
+  jekyll-paginate
+  jekyll-seo-tag
 
 BUNDLED WITH
    1.14.4
