@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: A Brief History of Digital Humanities at Columbia University
 permalink: /history/
 ---
