@@ -48,6 +48,7 @@ analytics:
 api-token:   
 
 include: [_pages]
+exclude: [vendor]
 version: 0.8
 
 gems: [jekyll-paginate, jekyll-seo-tag]
