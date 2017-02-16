@@ -4,7 +4,7 @@ title: Mini Lazarillo
 description: A student digital edition of the Lazarillo de Tormes.
 link: "https://minilazarillo.github.io/project.html"
 author: Alex Gil
-img: amistad.png
+img: minilaz.png
 people:
 - Susanna Allés Torrent
 - Alex Gil

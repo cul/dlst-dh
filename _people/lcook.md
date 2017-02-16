@@ -19,10 +19,8 @@ contributed to an exhaustive public sculpture database for the Chicago Park Dist
 Alliance Française de Chicago, and served as a panorama photographer for [Mapping
 Gothic France](http://mappinggothic.org/). Her M.A. paper at Columbia
 considered the propaganda value of photography in a 1919 book about Reims
-Cathedral. She contributed to the Rare Book and Manuscript Library [exhibition of medieval Bibles Writing the Word](http://library.columbia.edu/news/libraries/2013/2013-5-24_Medieval_Bibal_E=
-xhibition_RBML.html),
-the digital humanities project [Chant Manuscripts](https://chantmanuscripts.omeka.net/), and the print catalogue for [The Architect's Library](http://specialcollections.vassar.edu/exhibit-highlights/the-architects-lib=
-rary/index.html),
+Cathedral. She contributed to the Rare Book and Manuscript Library exhibition of medieval Bibles Writing the Word,
+the digital humanities project [Chant Manuscripts](https://chantmanuscripts.omeka.net/), and the print catalogue for The Architect's Library,
 an exhibition of notable architectural books from the collection at Vassar.
 She is currently a consultant for FAB-Musiconis, a collaborative digital
 humanities project in medieval musical iconography. As a complement to her

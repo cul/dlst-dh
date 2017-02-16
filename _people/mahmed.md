@@ -5,7 +5,7 @@ description: Assistant Professor, Department of History
 img: mahmed.png
 author: Alex Gil
 projects:
-- Delivering Post by Foot in Medieval India
+- Delivering Post by Foot in medieval north India
 - History in Action
 - Muslim World Manuscript Project
 teams:
