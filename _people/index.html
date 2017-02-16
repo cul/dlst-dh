@@ -25,16 +25,15 @@ title: People
 
 
 </div>
-  <div id="archives">
-
-
+<div id="archives">
   <p>Below is an incomplete list of people who contributed to our Digital Humanities while they were affiliated to Columbia University. They have our debt of gratitude.</p>
+  <ul>
   {% for post in site.people %}
     {% if post.archive %}
-    <ul>
+    
       <a href="{{site.baseurl}}{{post.url}}"><li>{{post.title}}</li></a>
-    </ul>
+    
     {% endif %}
-   {% endfor %}
-  </div>
+   {% endfor %}</ul>
+</div>
 
