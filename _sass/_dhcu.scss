@@ -1,5 +1,17 @@
 /* General */
 
+#archives {
+    width: 60%;
+    padding-top: 2rem;
+    margin: 4em auto;
+    height: auto;
+    border-top: 1px solid #8c8b8b;
+}
+
+div#archives > ul {
+    list-style-type: circle;
+    line-height: 1em;
+}
 
 div.section {
     margin-bottom: 30px;
