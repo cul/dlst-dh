@@ -3,7 +3,7 @@ layout: project
 title: "eBOIARDO"
 description: "Theatrical, musical, and artistic representations based on Boiardo’s Orlando Innamorato, Ariosto’s Orlando Furioso, and other Italian Renaissance romance epics."
 link: "https://mcid.mcah.columbia.edu/art-atlas/rock-cut-architecture-india"
-img: eboiardo.jpeg
+img: eboiardo.png
 link: http://edblogs.columbia.edu/eboiardo/
 author: Alex Gil
 people:

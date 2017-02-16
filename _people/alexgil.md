@@ -8,6 +8,8 @@ author: Alex Gil
 projects:
 - Around DH in 80 Days
 - sx archipelagos
+- Mini Lazarillo
+- Ed
 teams:
 - Group for Experimental Methods in the Humanities 
 ---

@@ -1,5 +1,5 @@
 ---
-title: Mail
+title: Contact Us
 layout: post
 permalink: /mail/
 ---
