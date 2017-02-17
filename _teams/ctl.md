@@ -11,7 +11,7 @@ people:
 projects:
 - Amistad Digital Resource
 - Sonic Glossary
-- mediathread
+- Mediathread
 - Mapping Yiddish New York
 - Mapping the African American Past
 - "Epistolae: Medieval Women's Letters"

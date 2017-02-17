@@ -24,12 +24,12 @@ layout: default
     <p>Projects:<br>
     {% for project in page.projects %}
         {% for post in site.projects %}
-            {% if post.title==project %}
+            {% if post.title == project %}
             <a href="{{site.baseurl}}{{post.url}}">{% endif %}
         {% endfor %}
         {{project}}
         {% for post in site.projects %}
-            {% if post.title==project %}</a>
+            {% if post.title == project %}</a>
             {% endif %}
         {% endfor %}<br>
     {% endfor %}
@@ -39,12 +39,12 @@ layout: default
     <p>People:<br>
     {% for person in page.people %}
         {% for post in site.people %}
-            {% if post.title==person %}
+            {% if post.title == person %}
             <a href="{{site.baseurl}}{{post.url}}">{% endif %}
         {% endfor %}
         {{person}}
         {% for post in site.people %}
-            {% if post.title==person %}</a>
+            {% if post.title == person %}</a>
             {% endif %}
         {% endfor %}<br>
     {% endfor %}

@@ -18,12 +18,12 @@ layout: default
     <p>Projects:<br>
     {% for project in page.projects %}
         {% for post in site.projects %}
-            {% if post.title==project %}
+            {% if post.title == project %}
             <a href="{{site.baseurl}}{{post.url}}">{% endif %}
         {% endfor %}
         {{project}}
         {% for post in site.projects %}
-            {% if post.title==project %}</a>
+            {% if post.title == project %}</a>
             {% endif %}
         {% endfor %}<br>
     {% endfor %}
@@ -33,12 +33,12 @@ layout: default
     <p>Teams:<br>
     {% for team in page.teams %}
         {% for post in site.teams %}
-            {% if post.title==team %}
+            {% if post.title == team %}
             <a href="{{site.baseurl}}{{post.url}}">{% endif %}
         {% endfor %}
         {{team}}
         {% for post in site.teams %}
-            {% if post.title==team %}</a>
+            {% if post.title == team %}</a>
             {% endif %}
         {% endfor %}<br>
     {% endfor %}
