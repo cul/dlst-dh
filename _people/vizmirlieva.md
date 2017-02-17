@@ -1,8 +1,9 @@
 ---
 layout: people
 title: Valentina Izmirlieva
-description: "Ph.D. candidate in Slavic Languages"
+description: "Professor of Slavic Literatures and Cultures"
 author: Alex Gil
+img: vizmirlieva.jpg
 projects:
 - Black Sea Networks
 ---
