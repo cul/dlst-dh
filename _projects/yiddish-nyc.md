@@ -5,6 +5,8 @@ description: A unique assemblage of documentation about all aspects of Yiddish c
 link: "https://myny.ccnmtl.columbia.edu/"
 img: yiddish.png
 author: Alex Gil
+people:
+- Agnieszka Legutko
 teams:
 - Center for Teaching and Learning
 ---
