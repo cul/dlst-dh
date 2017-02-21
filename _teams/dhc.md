@@ -1,6 +1,6 @@
 ---
 layout: team
-title: The Digital Humanities Center
+title: Digital Humanities Center
 link: "http://library.columbia.edu/locations/dhc.html" 
 description: "Located in 305 Butler Library, the DHC is a research and instructional facility of the Columbia University Libraries designed to help Columbia faculty and students incorporate computer-based textual, bibliographic, image, and video information into their research, study, and teaching."
 author: Alex Gil
