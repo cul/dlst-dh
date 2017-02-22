@@ -2,7 +2,7 @@
 layout: project
 title: "Documenting Japan"
 description: Photographs of Japanese architecture from the 8th through the early 21st Century.
-link: "http://artstor.wordpress.com/2011/12/15/now-available-images-of-architecture-in-japan-and-chicago-from-columbia-university/"
+link: "https://mcid.mcah.columbia.edu/art-atlas/japanese-architecture"
 img: documenting-japan.jpeg
 author: Alex Gil
 teams:

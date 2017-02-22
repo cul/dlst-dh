@@ -5,11 +5,6 @@ link: "http://learn.columbia.edu/"
 description: "Part of the Department of Art History and Archaeology, the center explores material culture, vision, media, and pedagogy in the broadest sense to connect faculty research and student learning through the creative application of technology."
 author: Alex Gil
 img: mcah.png
-people:
-- Stephen Murray
-- Stefaan Van Liefferinge 
-projects:
-- Mapping Gothic France
 ---
 
 The Media Center for Art History, part of the <a href="http://www.columbia.edu/cu/arthistory/" target="_blank">Department of Art History and Archaeology</a> at Columbia University, explores material culture, vision, media, and pedagogy in the broadest sense to connect faculty research and student learning through the creative application of technology. A motivated group of faculty principal investigators work with the Media Center to develop, conduct, and administer their projects in the study, interpretation, and conservation of works of art, monuments, or heritage sites.

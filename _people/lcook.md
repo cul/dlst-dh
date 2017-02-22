@@ -4,8 +4,6 @@ title: Lindsay Cook
 description: Ph.D. Candidate, Department of Art History and Archaeology
 author: Alex Gil
 img: lcook.jpeg
-teams:
-- Media Center for Art History
 projects:
 - Mapping Gothic France
 - FAB-Musiconis

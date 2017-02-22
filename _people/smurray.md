@@ -4,8 +4,6 @@ title: Stephen Murray
 description: Lisa and Bernard Selz Professor of Medieval Art History and Director of Art Humanities
 img: smurray.jpeg
 author: Alex Gil
-teams:
-- Media Center for Art History
 projects:
 - Mapping Gothic France
 ---

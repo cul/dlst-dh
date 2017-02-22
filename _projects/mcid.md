@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Madison Digital Image Database"
+title: "Media Center Image Database"
 description: The online database for the collections of the Media Center for Art History of the Department of Art History at Columbia University.
 link: "https://mcid.mcah.columbia.edu/"
 img: mcid.jpeg
