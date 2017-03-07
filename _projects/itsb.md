@@ -1,6 +1,6 @@
 ---
 layout: project
-title: In The Same Boats
+title: In the Same Boats
 description: Toward an Intellectual Cartography of the Afro-Atlantic World.
 img: itsb.png
 author: Alex Gil

@@ -10,7 +10,7 @@ title: Projects
     {% elsif post.title != 'Projects' %}
     <div class="box">
        {% if post.img %}
-          <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+          <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}" width="300" height="100%">
        {% endif %}
           <div class="container">
             <h4>{{post.title}}</h4>

@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Benjamin Armintor
-description: Digital Humanities Developer, Columbia University Libraries
+description: Head of Development, Infrastructure & Applications Group, Columbia Libraries
 img: barmintor.jpeg
 author: Alex Gil
 teams:
