@@ -7,7 +7,7 @@ link: "https://barnard.edu/profiles/kaiama-l-glover"
 author: Alex Gil
 projects:
 - sx archipelagos
-- In the Same Boats
+- "In the Same Boats"
 teams:
 - Group for Experimental Methods in the Humanities
 ---
