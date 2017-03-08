@@ -148,11 +148,12 @@ article {
 }
 
 footer {
+    width: 90%;
     clear: both;
-    display: block;
-    text-align: center;
+    display: inline-block;
     color: $text-color;
     padding: 50px;
+    font-size: .6rem;
 }
 
 

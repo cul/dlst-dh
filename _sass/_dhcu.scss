@@ -30,6 +30,16 @@ div.page > article {
     border-bottom: none;
 }
 
+div#footer-logo {
+    text-align: center;
+}
+
+div#footer-copyright {
+    margin-top: 2rem;
+    font-size: .6rem;
+    text-align: center;
+}
+
 div.crop {
   height: 200px;
   overflow: hidden;

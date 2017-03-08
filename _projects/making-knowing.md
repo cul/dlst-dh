@@ -12,7 +12,6 @@ people:
 teams:
 - Digital Humanities Center
 - Center for Teaching and Learning
-- Libraries Digital Program Division
 ---
 
 In the last decades of the sixteenth century, an anonymous French-speaking craftsperson took the unusual step of setting down on paper his techniques for a number of processes that we would now classify as part of the fine arts, of craft, and of technology. The processes included drawing-instruction, pigment-making, metal-coloring, counterfeit gem production, life-casting in metal, cannon-casting, tree-grafting, land-surveying, a practice of taxidermy to manufacture monstrous composite animals (kittens and bats), making paper mâché masks, and much more.
