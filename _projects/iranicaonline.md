@@ -5,8 +5,6 @@ description: The EIr is dedicated to the study of Iranian civilization in the Mi
 link: "http://www.iranicaonline.org/"
 img: iranicaonline.png
 author: Alex Gil
-people:
-- Dagmar Riedel
 ---
 
 
