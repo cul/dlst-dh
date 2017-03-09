@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Charles McNamara
-description: Former Preceptor in Contemporary Civilization and Ph.D. Candidate in the Department of Classics.
+description: Former Graduate Student in the Department of Classics.
 img: cmcnamara.jpeg
 author: Alex Gil
 archive: True
