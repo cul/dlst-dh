@@ -5,7 +5,7 @@ description: Project Manager of the Making and Knowing Project
 img: nrosenkranz.jpg
 author: Alex Gil
 projects:
-- Making and Knowing Project
+- The Making and Knowing Project
 ---
 
 Naomi Rosenkranz is the Project Manager of the [Making and Knowing Project](http://www.makingandknowing.org/), a research cluster of the Center for Science and Society that is working to create an open-access critical digital edition of an intriguing artisanal, technical 16th-century French manuscript. The Project brings together participants from the humanities, arts, and sciences to foster new connections and insights through interdisciplinary research, knowledge exchange, teaching (including graduate seminars in historical laboratory reconstructions and digital humanities). 
