@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Morningside Heights Digital History
-description: A project-based program for librarian professional development in digital humanities. 
+description: A set of exhibits and document collections highlighting some of the most important and distinctive aspects of Morningside Heights history. 
 link: "https://mhdh.library.columbia.edu/"
 author: Alex Gil
 img: mhdh.png
