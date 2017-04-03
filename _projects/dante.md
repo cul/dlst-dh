@@ -3,7 +3,7 @@ layout: project
 title: Digital Dante
 description: A platform for innovative contemporary scholarship on Dante and his works that evolved from one of the digital humanities projects at Columbia in the 1990s.
 link: "http://digitaldante.columbia.edu/"
-img: dante.jpeg
+img: dante.png
 author: Alex Gil
 people:
 - Teodolinda Barolini
