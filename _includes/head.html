@@ -23,9 +23,9 @@
 
 	<!-- Open Graph metadata -->
 
-    {% if page.layout == "default" %}
-    <meta property="og:title" content="{{page.title}}"/>
-    <meta property="og:description" content="{{site.description}}">
+    {% if page.url == "/" %}
+    <meta property="og:title" content="Columbia University Digital Humanities"/>
+    <meta property="og:description" content="Welcome to Columbia University Digital Humanities—the central informational portal for the varied digital humanities work at Columbia University.">
     <meta property="fb:admins" content="elotroalex"/>
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{site.url}}{{site.baseurl}}{{page.url}}"/>
