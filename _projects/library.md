@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "The Library Project"
-description: A digital archive of manuscripts, oral histories, and other materials related to the history of schooling and learning in Harlem.
+description: "Visualizations of the holdings at Columbia University Libraries"
 link: "http://www.spatialinformationdesignlab.org/projects/library-project"
 img: library-project.jpeg
 author: Alex Gil
