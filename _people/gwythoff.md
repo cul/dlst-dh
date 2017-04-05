@@ -4,8 +4,6 @@ title: Grant Wythoff
 description: Digital Methods and Public Humanities Fellow with the Heyman Center for the Humanities
 img: gwythoff.jpg
 author: Alex Gil
-projects:
-- FAB-Musiconis
 teams:
 - Group for Experimental Methods in the Humanities
 - Center for Spatial Research
@@ -17,4 +15,4 @@ At Columbia, Grant has organized conferences on media archaeology ([Insuetude: C
 
 Previously, Grant served on the steering committee of the [Princeton Digital Humanities Initiative](https://cdh.princeton.edu/) and was project manager on [Princeton Prosody Archive](http://prosody.princeton.edu/), a full-text searchable database of writing on the rhythm, intonation, and utterance of language from 1750-1950.
 
-Find him online at <wythoff.net> and [@gwijthoff](http://twitter.com/gwijthoff)
+Find him online at wythoff.net and [@gwijthoff](http://twitter.com/gwijthoff)
