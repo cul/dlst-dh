@@ -2,7 +2,7 @@
 layout: people
 title: Grant Wythoff	
 description: Digital Methods and Public Humanities Fellow with the Heyman Center for the Humanities
-img: gwythoff.jpeg
+img: gwythoff.jpg
 author: Alex Gil
 projects:
 - FAB-Musiconis
