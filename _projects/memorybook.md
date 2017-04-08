@@ -8,4 +8,4 @@ archive: True
 author: Alex Gil
 ---
 
-MemoryBook by Brad Garton an integrated text/music/graphics application, essentially a "book-with-a-soundtrack" where the music and graphics respond to the text being read at any point. The text recounts the author's memories. The app is available on iPad and Kindle Fire.
+MemoryBook by Brad Garton is an integrated text/music/graphics application, essentially a "book-with-a-soundtrack" where the music and graphics respond to the text being read at any point. The text recounts the author's memories. The app is available on iPad and Kindle Fire.
