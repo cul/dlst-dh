@@ -8,6 +8,7 @@ author: Alex Gil
 people:
 - Susan Boynton
 - Alex Gil
+- Lindsay Cook
 ---
 
 FAB-Musiconis is a project of Columbia University and Paris-Sorbonne University made possible by a three-year grant from the Partner University Fund of the FACE Foundation. The Project Leaders are Susan Boynton (Columbia) and Frédéric Billiet (Paris-Sorbonne). Beginning in 2016, five graduate student medievalists from each of the two partner universities will be selected each fall to participate in a program of activities for the academic year, including two-week intensive exchanges in Paris and New York.
