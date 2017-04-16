@@ -5,6 +5,8 @@ description: "The online adaptation of a 2005 exhibition showcases a wide range 
 link: "https://exhibitions.cul.columbia.edu/exhibits/show/quran/item/6097"
 img: quran.png
 author: Alex Gil
+people:
+- Dagmar Riedel
 ---
 
 During the month of Ramaḍān, Muslims commemorate the revelation of the Quran to the prophet Muḥammad.  In Fall 2005, from October 4 until November 2, Burke Library exhibited some of its Qurans to explore during Ramaḍān 1426 AH how attitudes toward Islam are reflected in the books that give readers access to its revelation.
