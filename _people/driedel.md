@@ -10,4 +10,4 @@ projects:
 - "The Quran in East and West: Manuscripts and Printed Books"
 ---
 
-Dagmar Riedel's research explores the history of the book in Arabic script in Muslim societies as material evidence for the cultural and the economic histories of the transmission of knowledge across Eurasia and Africa.  Her work on the editorial team of the Encyclopædia Iranica (iranicaonline.org) has prompted her to integrate the Digital Humanities into her own research. 
+Dagmar Riedel's research explores the history of the book in Arabic script in Muslim societies as material evidence for the cultural and the economic histories of the transmission of knowledge across Eurasia and Africa.  Her work on the editorial team of the *Encyclopædia Iranica* has prompted her to integrate the Digital Humanities into her own research. 
