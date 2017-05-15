@@ -2,7 +2,7 @@
 layout: project
 title: "The Quran in East and West: Manuscripts and Printed Books"
 description: "The online adaptation of a 2005 exhibition showcases a wide range of holdings concerning Islam in the Burke Library at Union Theological Seminary. The exhibition highlights Burke's collection of Qurans, while exploring Christian perceptions of Islam and the Quran between 1500 and 1900."
-link: "https://exhibitions.cul.columbia.edu/exhibits/show/quran/item/6097"
+link: "https://exhibitions.cul.columbia.edu/exhibits/show/quran/"
 img: quran.png
 author: Alex Gil
 people:
