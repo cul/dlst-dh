@@ -16,11 +16,11 @@ and Education at Teachers College, Columbia University since 2011.
 
 Erickson co-directs the collaborative research project [Educating
 Harlem at Teachers
-College](researchblogs.cul.columbia.edu/educatingharlem), which includes
+College](http://researchblogs.cul.columbia.edu/educatingharlem), which includes
 an edited volume on the history of education in Harlem in the 20<sup>th</sup>
 century, now under contract with Columbia University Press, the
 [Educating Harlem Digital
-Collection](educatingharlem.cdrs.columbia.edu/omeka), and a youth
+Collection](http://educatingharlem.cdrs.columbia.edu/omeka), and a youth
 participatory research project.
 
 Erickson’s first book, [Making the Unequal Metropolis: School

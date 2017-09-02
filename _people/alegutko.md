@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Agnieszka Legutko
-description: Norman E. Alexander Librarian for Jewish Studies at Columbia.
+description: "Lecturer in Yiddish and Director of the Yiddish Language Program"
 link: "http://www.columbia.edu/cu/german/people/legutko.html"
 author: Alex Gil
 projects:

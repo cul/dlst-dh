@@ -2,7 +2,7 @@
 layout: team
 title: Studio@Butler
 description: Located in 208b Butler Library, the Studio has become the meeting place of choice for Digital Humanities communities at Columbia University.
-link: "http://library.columbia.edu/locations/dssc.html" 
+link: "https://studio.cul.columbia.edu/" 
 img: studio.png
 author: Alex Gil
 people:

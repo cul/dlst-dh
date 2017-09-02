@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Mark Phillipson
-description: Director of Graduate Student Teaching Initiatives and Programs, CTL
+description: Director, Graduate Student Programs and Services, CTL
 img: mphillipson.jpeg
 author: Alex Gil
 projects:
