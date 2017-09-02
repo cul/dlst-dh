@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Conflict Urbanism: Aleppo"
-description: A digital archive of manuscripts, oral histories, and other materials related to the history of schooling and learning in Harlem.
+description: "An open-source, interactive, layered map of Aleppo, at the neighborhood scale and a platform for storytelling with data"
 link: "http://c4sr.columbia.edu/conflict-urbanism-aleppo/"
 img: conflict-aleppo.png
 author: Alex Gil

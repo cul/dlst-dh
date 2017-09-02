@@ -15,7 +15,7 @@ layout: default
 <!-- This bit of logic generates "tags" for Projects and Teams -->
     {% capture team_name %}{{page.title}}{% endcapture %}
     {% if page.projects %}
-    <p>Projects:<br>
+    <p>Related Projects:<br>
     {% for project in page.projects %}
         {% for post in site.projects %}
             {% if post.title == project %}
@@ -30,7 +30,7 @@ layout: default
     </p>
     {% endif %}
     {% if page.teams %}
-    <p>Teams:<br>
+    <p>Related Teams:<br>
     {% for team in page.teams %}
         {% for post in site.teams %}
             {% if post.title == team %}

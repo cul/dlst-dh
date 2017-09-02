@@ -1,7 +1,7 @@
 ---
 layout: project
 title: The Making and Knowing Project
-description: A multi-departemental collaboration of at Columbia University to understand and produce a digital edition of the manuscript Ms. Fr. 640.
+description: A Research Cluster of the Center for Science and Society at Columbia University that explores the intersection of craft making and scientific knowing through pedagogy and research.
 link: "http://www.makingandknowing.org/"
 img: making-knowing.jpeg
 author: Alex Gil

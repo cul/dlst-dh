@@ -21,4 +21,4 @@ The Center for Teaching and Learning (CTL) partners with faculty, students, and 
 
 The CTL understands teaching as a critical practice, driven by inquiry, experimentation, reflection, and collaboration. We promote pedagogy that is inclusive, learner-centered, and research-based. We support the purposeful use of new media and emerging technologies in the classroom and online to foster the success of Columbia’s instructors and students.
 
-The CTL inherited the former Columbia Center for New Media Teaching and Learning (CCNMTL), which built many of the projects featured here. CTL continues to maintain all of them.
+The CTL incorporated the former Columbia Center for New Media Teaching and Learning (CCNMTL), which built many of the projects featured here. CTL continues to maintain all of them.

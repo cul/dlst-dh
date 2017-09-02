@@ -1,6 +1,6 @@
 
 title: "Columbia University Digital Humanities"
-desctiption: Digital Humanities at Columbia University
+description: "The central informational portal for the varied digital humanities work at Columbia University"
 url: 
 permalink: ':title/'
 
@@ -38,17 +38,10 @@ compress_html:
   startings: []
 
 highlight: rouge
-
-
-# Tracker
-analytics: 
-
-# Contact form
-# Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
-api-token:   
+  
 
 include: [_pages, '.htaccess']
 exclude: [vendor]
 version: 0.8
 
-gems: [jekyll-paginate, jekyll-seo-tag]
+gems: [jekyll-paginate]

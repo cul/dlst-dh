@@ -11,7 +11,9 @@ projects:
 - Mini Lazarillo
 - Ed
 teams:
-- Group for Experimental Methods in the Humanities 
+- Group for Experimental Methods in the Humanities
+- Studio@Butler
+- Digital Humanties Center 
 ---
 
 

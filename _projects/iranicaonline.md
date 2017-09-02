@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Encyclopaedia Iranica
-description: The EIr is dedicated to the study of Iranian civilization in the Middle East, the Caucasus, Central Asia and the Indian Subcontinent.
+description: "The Open-Access reference work covers all aspects of the Iranian civilization in the Middle East, the Caucasus, Central Asia, and the Indian Subcontinent."
 link: "http://www.iranicaonline.org/"
 img: iranicaonline.png
 author: Alex Gil

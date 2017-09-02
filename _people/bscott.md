@@ -3,7 +3,7 @@ layout: people
 title: Bob Scott
 description: Digital Humanities Librarian
 author: Alex Gil
-pic: bscott.jpg
+img: bscott.jpg
 teams:
 - Digital Humanities Center
 projects:
