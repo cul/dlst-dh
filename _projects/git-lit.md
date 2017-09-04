@@ -4,7 +4,6 @@ title: "Git-Lit"
 description: Making the British Library's corpus of scanned and OCRed ALTO XML texts better available to digital humanists, by transforming the texts into useful file formats and publishing them to the Web as corpus repositories.
 link: "https://github.com/JonathanReeve/git-lit"
 author: Alex Gil
-img: git-lit.png
 people:
 - Jonathan Reeve
 teams:
