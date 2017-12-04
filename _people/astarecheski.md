@@ -2,7 +2,7 @@
 layout: people
 title: Amy Starecheski
 description: "Co-Director, Oral History MA Program"
-img: astareceski.jpeg
+img: astarecheski.jpeg
 author: Alex Gil
 projects:
 - Oral History Works
