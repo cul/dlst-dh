@@ -1,7 +1,7 @@
 
 title: "Columbia University Digital Humanities"
 description: "The central informational portal for the varied digital humanities work at Columbia University"
-url: 
+url:
 permalink: ':title/'
 
 markdown: kramdown
@@ -24,7 +24,7 @@ collections:
 sass:
     style: compressed
 
-  
+
 #optimization
 #compress.html
 compress_html:
@@ -38,10 +38,8 @@ compress_html:
   startings: []
 
 highlight: rouge
-  
+
 
 include: [_pages, '.htaccess']
-exclude: [vendor]
+exclude: [vendor, Gemfile*, Rakefile, README.md, LICENCE.md]
 version: 0.8
-
-gems: [jekyll-paginate]
