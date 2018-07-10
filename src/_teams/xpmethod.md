@@ -2,7 +2,7 @@
 layout: team
 title: Group for Experimental Methods in the Humanities
 description: The Columbia group for experimental methods in the humanities is dedicated to the rapid prototyping of speculative ideas.
-link: "http://xpmeth.plaintext.io/" 
+link: "http://xpmeth.plaintext.io/"
 img: xpmethod.png
 author: Alex Gil
 people:
@@ -10,6 +10,7 @@ people:
 - Jonathan Reeve
 - Manan Ahmed
 - Dennis Tenen
+- Marii Nyrop
 - Philip R. Polefrone
 projects:
 - "Git-Lit"
