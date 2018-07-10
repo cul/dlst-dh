@@ -1,12 +1,13 @@
 ---
 layout: team
 title: History Lab
-link: "http://www.history-lab.org/" 
+link: "http://www.history-lab.org/"
 description: "We turn documents into data and develop tools to explore history."
 author: Alex Gil
 img: history-lab.png
 people:
 - Matt Connelly
+- Marii Nyrop
 projects:
 - Freedom of Information Archive
 ---

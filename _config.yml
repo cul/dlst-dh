@@ -1,11 +1,10 @@
+title         : 'Columbia University Digital Humanities'
+description   : 'The central informational portal for the varied digital humanities work at Columbia University'
 
-title: "Columbia University Digital Humanities"
-description: "The central informational portal for the varied digital humanities work at Columbia University"
-url:
+url           : ''
+baseurl: ''
 permalink: ':title/'
-
-markdown: kramdown
-baseurl: ""
+source: 'src'
 
 collections:
   projects:
