@@ -3,6 +3,7 @@ layout: people
 title: Kimberly Takahata
 description: Doctoral Candidate, Department of English and Comparative Literature
 author: Alex Gil
+img: ktakahata.jpg
 teams:
 - Group for Experimental Methods in the Humanities
 projects:
