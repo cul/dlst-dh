@@ -13,7 +13,7 @@ projects:
 teams:
 - Group for Experimental Methods in the Humanities
 - Studio@Butler
-- Digital Humanties Center 
+- Digital Scholarship
 ---
 
 
