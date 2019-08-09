@@ -4,7 +4,7 @@ script:
   - bundle exec jekyll build
   - bundle exec rake test
 after_success:
-  - bundle exec jekyll push static
+  - bundle exec jekyll push static --user='cul-travis'
 deploy:
   - provider: s3
     access_key_id: $AWS_ID
