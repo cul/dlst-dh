@@ -2,7 +2,7 @@
 layout: project
 title: The Making and Knowing Project
 description: A Research Cluster of the Center for Science and Society at Columbia University that explores the intersection of craft making and scientific knowing through pedagogy and research.
-link: "http://www.makingandknowing.org/"
+link: "https://edition640.makingandknowing.org/#/"
 img: making-knowing.jpeg
 author: Alex Gil
 people:
