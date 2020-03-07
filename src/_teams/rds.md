@@ -3,7 +3,7 @@ layout: team
 title: Research Data Services
 description: Located in Lehman Library, RDS provides a wide range of information and technology assistance for students and faculty.
 link: "https://library.columbia.edu/services/research-data-services.html" 
-img: data-club.jpeg
+img: data-club.jpg
 author: Alex Gil
 people:
 - Jeremiah Trinidad-Christensen
