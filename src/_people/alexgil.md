@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Alex Gil
-description: Digital Scholarship Librarian for the Libraries, and Affiliate Faculty of the Department of English and Comparative Literature.
+description: Digital Scholarship Librarian, Columbia University Libraries.
 link: "http://www.elotroalex.com/"
 img: alexgil.jpg
 author: Alex Gil
@@ -10,10 +10,12 @@ projects:
 - sx archipelagos
 - Mini Lazarillo
 - Ed
+- Wax
+- Torn Apart/Separados
 teams:
 - Group for Experimental Methods in the Humanities
-- Studio@Butler
-- Digital Scholarship
+- Studio
+- Research Data Services
 ---
 
 
