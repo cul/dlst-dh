@@ -1,13 +1,14 @@
 ---
 layout: team
-title: The Digital Social Science Center
-description: Located in Lehman Library, the DSSC provides a wide range of information and technology assistance for students and faculty.
-link: "http://library.columbia.edu/locations/dssc.html" 
-img: dssc.jpeg
+title: Research Data Services
+description: Located in Lehman Library, RDS provides support and consultation for the research data needs of the members of Columbia University, including the humanities.
+link: "https://library.columbia.edu/services/research-data-services.html" 
+img: rds.png
 author: Alex Gil
 people:
 - Jeremiah Trinidad-Christensen
+- Alex Gil
+- Moacir P. de Sá Pereira
 ---
 
-The Digital Social Science Center (DSSC) located in Lehman Library provides a wide range of information and technology assistance for students and faculty. DSSC brings together people, equipment, and information resources in an environment where users can work collaboratively, individually, or in consultation with a librarian and/or technology specialist.
-
+The Research Data Services (RDS) is located in Lehman Library. RDS provides support and consultation for the research data needs of the members of Columbia University, including the humanities. RDS can support faculty and students working on mapping, visualization, digital exhibits and other genres of digital humanities. To make an appointment, please contact rds@library.columbia.edu.
