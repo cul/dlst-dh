@@ -4,6 +4,7 @@ title: Michelle McSweeney
 description: "Mellon Research Scholar"
 img: mmcsweeney.gif
 author: Alex Gil
+archive: True
 teams:
 - Center for Spatial Research
 ---

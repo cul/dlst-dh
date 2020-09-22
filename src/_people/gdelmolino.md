@@ -3,6 +3,7 @@ layout: people
 title: Grace Delmolino	
 description: "PhD candidate in the Department of Italian and the Institute for Comparative Literature and Society"
 author: Alex Gil
+archive: True
 projects:
 - Digital Dante
 ---

@@ -5,6 +5,7 @@ description: Digital Humanities Developer, Columbia University Libraries
 img: mnyrop.jpg
 link: 'http://marii.info'
 author: Alex Gil
+archive: True
 teams:
 - Group for Experimental Methods in the Humanities
 - Digital Humanities Center

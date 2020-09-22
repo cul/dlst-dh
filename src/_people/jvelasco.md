@@ -4,6 +4,7 @@ title: "Jesús R. Velasco"
 description: Professor, Medieval and Early Modern Studies, Department of Latin American and Iberian Cultures
 img: jvelasco.jpeg
 author: Alex Gil
+archive: True
 projects:
 - Foucault 13/13
 - The Legal Workshop

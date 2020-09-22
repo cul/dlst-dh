@@ -4,6 +4,7 @@ title: Barbara Rockenbach
 description: Acting Associate University Librarian for Research and Learning
 img: brockenbach.jpeg
 author: Alex Gil
+archive: True
 ---
 
 Barbara Rockenbach is acting Associate University Librarian for Research and Learning, and former Director of the Humanities and History Libraries at Columbia University. In her former role she lead a group of experienced, dedicated librarians in exploring innovative ways to support the scholarly pursuits of students and faculty by building services around deep research collections in all areas of the humanities and emergent technologies. 

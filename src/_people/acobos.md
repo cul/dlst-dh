@@ -3,6 +3,7 @@ layout: people
 title: Almudena Marín Cobos
 description: PhD Student, Department of Latin American and Iberian Cultures 
 author: Alex Gil
+archive: True
 img: acobos.jpg
 ---
 

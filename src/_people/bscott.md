@@ -4,6 +4,7 @@ title: Bob Scott
 description: Digital Humanities Librarian
 author: Alex Gil
 img: bscott.jpg
+archive: True
 teams:
 - Digital Humanities Center
 projects:

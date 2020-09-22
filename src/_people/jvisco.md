@@ -3,6 +3,7 @@ layout: people
 title: Julianna Visco	
 description: "PhD candidate in the Department of Italian"
 author: Alex Gil
+archive: True
 img: jvisco.jpeg
 projects:
 - Digital Dante

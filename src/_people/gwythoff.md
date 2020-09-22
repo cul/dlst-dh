@@ -4,6 +4,7 @@ title: Grant Wythoff
 description: Digital Methods and Public Humanities Fellow with the Heyman Center for the Humanities
 img: gwythoff.jpg
 author: Alex Gil
+archive: True
 teams:
 - Group for Experimental Methods in the Humanities
 - Center for Spatial Research
